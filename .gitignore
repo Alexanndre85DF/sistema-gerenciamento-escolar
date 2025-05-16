@@ -1,0 +1,36 @@
+# Ignorar ambientes virtuais e dependências
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos do PyInstaller/build
+build/
+dist/
+*.spec
+*.toc
+
+# Banco e variáveis secretas
+.env
+*.db
+
+# Arquivos temporários e sistema
+.DS_Store
+Thumbs.db
+*.log
+# Ignorar arquivos do PyInstaller/build
+build/
+dist/
+*.spec
+*.toc
+
+# Banco e variáveis secretas
+.env
+*.db
+
+# Arquivos temporários e do sistema
+.DS_Store
+Thumbs.db
+*.log
+*.exe
